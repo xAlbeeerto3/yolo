@@ -1,5 +1,5 @@
 # yolo
-![](Imágenes/airbnb_web_euskadi.PNG)
+![](yolo_pet.png)
 <p align="center">
   <a href="#english">
     <img src="https://raw.githubusercontent.com/lipis/flag-icon-css/master/flags/4x3/gb.svg" alt="English" width="32" height="32">
