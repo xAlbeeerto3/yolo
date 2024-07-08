@@ -26,7 +26,7 @@ classNames = [
 #bucle de captura
 while True:
     success, img = cap.read() #leer la imagen de la camara
-    results = model(img, stream=True) #enviar a yolo la imagen para detectar objetos
+    results = modelo(img, stream=True) #enviar a yolo la imagen para detectar objetos
  
     #iteramos sobre lo que detecte yolo
     for r in results:
